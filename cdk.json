@@ -1,0 +1,3 @@
+{
+  "app": "node bin/geolambda-python-example.js"
+}
